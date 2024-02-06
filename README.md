@@ -1,2 +1,10 @@
 # TBot-Node
-Telegram Bot, Using Nodejs
+Usage
+
+```
+cd TBot-Node/
+npm i node-telegram-bot-api
+npm i gradient-string
+
+node main.js
+```
